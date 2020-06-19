@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'Scooby'
+}
+
+item {
+  id: 2
+  name: 'Shagy'
+}

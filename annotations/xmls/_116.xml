@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>_116.jpg</filename>
+	<path>E:\object detection api2\object detection api\resized\_116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scooby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>70</ymin>
+			<xmax>198</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shagy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>84</ymin>
+			<xmax>112</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>
